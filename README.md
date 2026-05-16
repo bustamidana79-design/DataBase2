@@ -57,6 +57,6 @@ Data is extracted from OLTP tables such as rental, payment, film, customer, inve
 - All fact records must match dimension records  
 
 ## Author
-Sama Haji
-Dana Bustami
+Sama Haji - 
+Dana Bustami - 
 Malak Waged
